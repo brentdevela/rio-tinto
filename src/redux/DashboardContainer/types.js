@@ -1,0 +1,11 @@
+const SET_IDEAS = 'SET_IDEAS';
+const SET_IDEA = 'SET_IDEA';
+const CREATE_IDEA = 'ADD_IDEA';
+const DELETE_IDEA = 'DELETE_IDEA';
+
+export default {
+  SET_IDEAS,
+  SET_IDEA,
+  CREATE_IDEA,
+  DELETE_IDEA,
+};
